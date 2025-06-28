@@ -1,0 +1,355 @@
+global coverage_group 0 $unit::apb_functional_coverage::apb_cgp __coverage_apb_functional_coverage.apb_cgp unused_apb_functional_coverage_apb_cgp_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-1.2/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-1.2/src/macros/uvm_callback_defines.svh...@3945906244 0  ( 0 
+)
+ 1 1
+ 0 39 /home/runner/apb_functional_coverage.sv
+ 82 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 167 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_16
+ 167 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_15
+0
+0
+0
+64
+0
+ 1
+ 13 instance_name 0 0 0 0
+
+8
+0
+1
+0
+ 10 pselx_covp 85 0 0 0 0 0 164 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn 164 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 12 penable_covp 86 0 0 0 0 0 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_0 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 10 paddr_covp 87 0 0 0 0 0 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_1 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 32 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 7 1 1 0 0 1 1 12 very_low_adr 87 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_2 0 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_3 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 low_adr 88 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_4 0 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_5 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 medium_adr 89 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_6 0 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_7 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 8 high_adr 90 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_8 0 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_9 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 13 very_high_adr 91 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_a 0 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_b 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 14 ultra_high_adr 92 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_c 0 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_d 0 0 0 0 0
+ 0
+ 1 2 0 0 1 1 15 addr_grtr_65535 93 0 0 2 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_e 0 166 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_f 0 0 0 0 0
+ 0
+
+ 11 pwrite_covp 94 0 0 0 0 0 167 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_10 167 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_10 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 11 pwdata_covp 95 0 0 0 0 0 167 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_11 167 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_11 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 32 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 11 pready_covp 96 0 0 0 0 0 167 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_12 167 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_12 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 12 pslverr_covp 97 0 0 0 0 0 167 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_13 167 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_13 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 11 prdata_covp 98 0 0 0 0 0 167 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_14 167 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_cgp_fn_14 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 32 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 14 pwr_padr_cross 0 100 0 0 -1 0 0 0 0 2 3 2 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group
+global coverage_group 0 $unit::apb_functional_coverage::apb_tggling_and_transition_cgp __coverage_apb_functional_coverage.apb_tggling_and_transition_cgp unused_apb_functional_coverage_apb_tggling_and_transition_cgp_loop_label $unit 0 0 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-1.2/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-1.2/src/macros/uvm_callback_defines.svh...@3945906244 0  ( 0 
+)
+ 0 105 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_5
+ 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_4
+0
+0
+0
+64
+0
+ 1
+ 13 instance_name 0 0 0 0
+
+3
+0
+0
+0
+ 30 cvp_taggle_nd_transition_pselx 108 0 0 0 0 0 187 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn 187 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 5 1 1 0 0 1 1 9 pselx_low 109 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 28 pselx_low_to_high_transition 110 0 0 4 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 40 pselx_high_to_low_transition_wait_state1 111 0 0 4 0 -1 0 0 0 0 0 0 1 3 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 40 pselx_high_to_low_transition_wait_state2 112 0 0 4 0 -1 0 0 0 0 0 0 1 4 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 40 pselx_high_to_low_transition_wait_state3 113 0 0 4 0 -1 0 0 0 0 0 0 1 5 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+
+ 32 cvp_taggle_nd_transition_penable 115 0 0 0 0 0 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_2 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_2 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 6 1 1 0 0 1 1 11 penable_low 116 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 30 penable_low_to_high_transition 117 0 0 4 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 30 penable_high_to_low_transition 118 0 0 4 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 42 penable_high_to_low_transition_wait_state1 119 0 0 4 0 -1 0 0 0 0 0 0 1 3 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 42 penable_high_to_low_transition_wait_state2 120 0 0 4 0 -1 0 0 0 0 0 0 1 4 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 42 penable_high_to_low_transition_wait_state3 121 0 0 4 0 -1 0 0 0 0 0 0 1 5 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+
+ 31 cvp_taggle_nd_transition_pready 124 0 0 0 0 0 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_3 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_3 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 10 pready_low 125 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 29 pready_low_to_high_transition 126 0 0 4 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 29 pready_high_to_low_transition 127 0 0 4 0 -1 0 0 0 0 0 0 1 2 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 189 _vcs_unit__3945906244_apb_functional_coverage_11_0::_vcs_unit__3945906244_apb_functional_coverage_11_0__vcs_unit__3945906244_apb_functional_coverage_11_0_apb_tggling_and_transition_cgp_fn_0 0 0 0 0 0 0 0
+ 0
+
+end_coverage_group
